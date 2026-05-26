@@ -2,7 +2,7 @@ class AppConstants {
   AppConstants._();
 
   // OpenWeatherMap 
-  static const String apiKey = '297b9216627a9a736acf0f50fcd0e921';
+  static const String apiKey = 'use your own api key from openweather.org';
   static const String baseUrl = 'https://api.openweathermap.org/data/2.5';
   static const String units = 'metric';
   static const String lang = 'en';
